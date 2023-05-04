@@ -1,0 +1,98 @@
+/* html {
+  max-width: 720px;
+
+  background: blue;
+}
+
+body {
+  background: yellow;
+}
+
+* {
+  color: white;
+}
+
+h1 {
+  color: black;
+}
+h1 {
+  color: green;
+}
+.bbb {
+  background: purple;
+}
+
+div > p {
+  color: white;
+} */
+
+/* li:first-child {
+  color: blue;
+}
+
+.item:nth-child(n + 2) {
+  color: rgb(255, 0, 234);
+}
+
+.clr {
+  color: red;
+}
+
+.item:only-child {
+  color: green;
+}
+
+p:empty {
+  height: 10px;
+  background: green;
+}
+
+.crd-fon {
+  background: rgb(235, 235, 235);
+}
+
+.input-dark {
+  background: rgb(145, 145, 145);
+}
+.input-dark[required] {
+  background: rgb(255, 56, 56);
+}
+.input-dark[type='number'] {
+  background: rgb(112, 255, 56);
+}
+.sm-img[alt~='small'] {
+  height: 50px;
+}
+
+.btn[class~='btn-primary'] {
+  background: yellow;
+  color: black;
+} */
+
+.card {
+  background: rgb(212, 212, 212);
+}
+
+#tst:target {
+  color: red;
+}
+
+.ln:link {
+  color: red;
+}
+
+.card:hover {
+  background: rgb(38, 212, 235);
+}
+
+input {
+  background-color: gray;
+}
+
+input:focus {
+  background: yellow;
+}
+
+.tt {
+  color: green;
+}
